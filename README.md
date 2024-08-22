@@ -4,6 +4,14 @@ Here is a demo to recreate the animation using an Autoencoder, which can predict
 
 The animation.mp4 is the original video and generated_video.mp4 is the reconstruction.
 
+Original video:
+
+![](demostration/original_video.gif)
+
+Reconstruction:
+
+![](demostration/reconstructed_video.gif)
+
 Here is a step-by-step implementation:
 
     Step 1: Extract Frames and Convert to Grayscale
