@@ -18,4 +18,4 @@ Here is a step-by-step implementation:
     
     Step 5: Generate the Animation
 
-Step 6: Fine tune the Model and Hyperparameter
+    Step 6: Fine tune the Model and Hyperparameter
