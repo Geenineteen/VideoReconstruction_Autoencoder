@@ -1,6 +1,6 @@
 ﻿# Video Reconstruction
 
-Here is a demo to recreate the animation using an Autoencoder, which can predict the next frame given the current frame.
+Here is a demo to recreate the animation using the convolutional autoencoder architecture , which can predict the next frame given the current frame.
 
 The animation.mp4 is the original video and generated_video.mp4 is the reconstruction.
 
